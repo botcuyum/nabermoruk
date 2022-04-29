@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "filmbot-347413",
+  "private_key_id": "628e9f5846f30acb31701ca805228c53ff275a0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCB2Vk7dir8SSUb\ne/HYYiUBDpkeFbUJwECbvsyI9rDYK1oswgbxwuqcL3iMPPQte0CHcPy9Nlyc5dgb\ngmwaFEaSiEgQzJTrvySg9aGt4mfAv8Cv4Fj/stNM/7ExcfEsS7RXpRT1C+d+YLKg\nnrXdksr2z/A2uMYt0MdYes9NFqmDV8Bj91gSDzr82NB3nIC8QfrOGbEuRuU1u1tc\nCtGc9rna7pPUZ1C2CpVDMIpcZ1oZAdQRN6qJvzOrUNzW1w6bS5aPJKhXJTSlr16Q\nVqkn1aNidaqJJ3lVotnMULR297DT3QBo8Vc6vkcX+5Ba2xO+Kb8PPrilPRWzLbok\n3IY8g0xDAgMBAAECggEADCLyBa5CT0lQ6BQ6IxTtS39/TUIPJUWsZEI9oNGZ7uKC\nb6uE9aTXw9hmBomN8xBRlDc50D+cAWg0PkH+86MQg5KsVbGhe7VmaYr73SJLu0bQ\n7j9kYiXnPQurFqmFNrQuu4BpCIxfyz6jg4LCEd8uDEqcM6kqkM6ySzFTXeuv1WBE\nvIx73XmsM0CQ7lfcsRNl/3MonrQHQsEDZeyEiPd6ItsNTn4ZsF6deA+kt+dafqdy\nVJesq8irXqsLuKNijq14gGJwW0rIH6Qa9R8Cbk6uE9yCjqj3hIm0GU3mW+WECGh7\nhRPUw8V/Rha8t5qmAqqSrCmVFg163LssXzBKKq2iRQKBgQC24wmMIYmyBVB0d/nv\neA/pzI/S7AJ6TKciZP0hYTMwkg6Bzb46KZo6XpNjJ7bcEhy0qBiQHDvuFLdFvZaE\ncH/NSdgIgs4USzWdLfFH75+BRjy848ZHgR56Q01nNCcWSWo3/8nQFUoeuKmjc8pK\n1RXLCIDVYyfxVJ5B9Dn73tUPxQKBgQC1wlMwWQWvNdAxanHF8s0Hq/Y7tnG44iv5\nput7o2NIqNgKGr7lbDmdFcHV1XZSRRWvrT46RoGSo7nxN2v+6XPI29v7w2iZY0Nr\nyKnleshD+zk5aKIcpCIM8/BnnqNjGzIyD0ktbzThx/0oS9/ssU1nXSMZSkrD8ftk\n80bakS1kZwKBgA1x73e/13Gg9mM5lsRGHVVg1on5E82N6ROcPQfBL5Q4iJx+VafM\n+yujXE6D0uum4Tleyj998+Hy3+5em7ws0Rh0f09Q3nmbdduSTxSsxxsn4Ls6O49y\nLJ1saTpXGTCIQSjQwzNq/UH47W+4yXxq4elFPMNzQLJ7OA89Ny4PGbbJAoGAfjSa\nkt2dhtV05Hsm2O4I06Th6wB54oiZRFZU+Jqw28jxicKcfq0xLBPpbdM0v1ddAYjn\nxosieXHaMNXs1SnAzd1r2FsNDETSkcrZvZAN8rZEO8qdlgmZ4yiW6zxJ8wz1Q7E9\nfKDVNVkqPYrBx5YtSvJu5qahV4F0r9oEfsuDm00CgYEArDtl/t6TK/gcZbhfRcus\nWSxB2y/6aGgWB9OMD/WS5HzRBZucL+DOkYm5X5Tkr1ZUCcarGThdW/xBRiEwKS+w\nxLJrvKj8Y3IDGzddmwCMbtSiDoHLyxNCMbygXwB7epEaQMjK7JoPE2FlCYGlqZLT\njJR5W7eeATXis4e/2HeEpJw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-gt0e66rl-ivnxajb8dy5jx53bq@filmbot-347413.iam.gserviceaccount.com",
+  "client_id": "111546595225111284449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-gt0e66rl-ivnxajb8dy5jx53bq%40filmbot-347413.iam.gserviceaccount.com"
+}
